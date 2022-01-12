@@ -7,7 +7,7 @@ Currently I'm looking for work while experimenting with making a simple programm
 
 # Projects
 I've always been interested in understanding how low-level systems work and how to build them. Here's some of my cooler projects I've worked on:
-* Non-Standard RTOS for an Arduino ATMega2560: [Link](https://github.com/rtulip/CSC460Group14)
+* Non-Standard RTOS for an Arduino ATMega2560: [RTC-RTOS](https://github.com/rtulip/RTC-RTOS)
 * Stateful Entity Component System & Pong Demo: [cpp-secs](https://github.com/rtulip/cpp-secs)
 * Secure Messaging Interface: [Link](https://gitlab.csc.uvic.ca/courses/2021091/SENG360/teams/group-24/group24assignment3)
 
