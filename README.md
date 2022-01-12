@@ -10,6 +10,7 @@ I've always been interested in understanding how low-level systems work and how 
 * Non-Standard RTOS for an Arduino ATMega2560: [RTC-RTOS](https://github.com/rtulip/RTC-RTOS)
 * Stateful Entity Component System & Pong Demo: [cpp-secs](https://github.com/rtulip/cpp-secs)
 * Secure Messaging Interface: [Link](https://gitlab.csc.uvic.ca/courses/2021091/SENG360/teams/group-24/group24assignment3)
+    * Note: The link is currently broken, I'm trying to get school permission to make the repo public.     
 
 # Contact
 The best way to contact me is through my email at <robert.tulip97@gmail.com>
