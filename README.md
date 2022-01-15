@@ -13,7 +13,7 @@ I've always been interested in understanding how low-level systems work and how 
     * Note: The link is currently broken, I'm trying to get school permission to make the repo public.     
 
 # Contact
-The best way to contact me is through my email at <robert.tulip97@gmail.com>
+The best way to contact me is through my email at <robert.tulip97@gmail.com> but you can also find me on [LinkedIn](https://linkedin.com/in/rtulip)
 
 <!---
 rtulip/rtulip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
