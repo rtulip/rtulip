@@ -3,7 +3,7 @@
 
 I'm a fresh grad from the University of Victoria, who studied Software Engineering. I've been worked primarially on firmware and embedded systems for companies like [Ecoation Innovative Solutions](https://www.ecoation.com/), [BRNKL](https://www.brnkl.io/), and [Rostrum Medical Innovations](https://www.rostrummedical.com/). I primarially work in C/C++, but love to pull out Rust when I can.
 
-Currently I'm looking for work while experimenting with making a simple programming language: [tlp](https://github.com/rtulip/tlp).
+Currently I'm looking for work while experimenting with building a compiler for a custom programmig language: [haystack](https://github.com/rtulip/haystack). `Haystack` is the next iteration on my previous experiment [tlp](https://github.com/rtulip/tlp), and aims to make working in the language a lot easier by introducing variables.
 
 # Projects
 I've always been interested in understanding how low-level systems work and how to build them. Here's some of my cooler projects I've worked on:
